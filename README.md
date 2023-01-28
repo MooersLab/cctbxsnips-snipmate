@@ -26,10 +26,10 @@ Select **cctbx python3.9** from the list of kernels when opening a new notebook 
 
 Replace the *3.9* or *39* above with whatever version of Python you want to use (between 3.8 and 3.11).
 
-## UltiSnips
+## Snipmate
 
-UltiSnips a popular snippet manager for Vim.
-It should work with [NeoVim](https://github.com/SirVer/ultisnips/issues/1505), but UltiSnips is less stable in NeoVim due rapdidly developing changes in NeoVim.
+[Snipmate](https://github.com/garbas/vim-snipmate) a popular snippet manager for Vim.
+It should work with NeoVim.
 There other snippets managers for Vim and NeoVim, such as snipmate and neosnippets.
 To complicate matters more, there several alternate systems for managing plugins.
 
