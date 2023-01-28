@@ -50,10 +50,10 @@ I store this file in a folder called my-snippets/Ultisnips.
 You may have to concatenate python.snippets with an existing python.snippets file.
 
 ```bash
-cd ~/.vim/my-snippets/Ultisnips
+cd ~/.vim/my-snippets/snipmate
 git clone https://github.com/MooersLab/cctbxsnips-snipmate.git
 cd cctbxsnips-snipmate/
-mv python.snippets ../.
+mv cctbx.snippets ../.
 cd ..
 rm -rf cctbxsnips-snipmate
 ```
